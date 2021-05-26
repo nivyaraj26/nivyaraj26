@@ -7,6 +7,7 @@
 - 💬 Ask me about HTML ,CSS..
 - 📫 How to reach me: nivyaraj2612@gmail.com
 - [😎My experience](https://drive.google.com/file/d/1Kg2-M5ywf50RzXhW8alW51UPN1mxt7fP/view?usp=sharing)
-- Fun Fact<img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">
+- <!--<img src="https://github.com/tonalmathew/tonalmathew/blob/master/src/images/oie_zAd2jZRtSWla.gif" width="25px">-->
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
