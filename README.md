@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m a BTech student👩‍💻
-- 🌱 I’m currently learning Javascript,
+- 🌱 I’m currently learning Javascript,Node.js
 - 👯 I’m looking to collaborate on..😉
 - 💬 Ask me about HTML ,CSS..
 - 📫 How to reach me: nivyaraj2612@gmail.com
