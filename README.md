@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋,I'am Nivya Raj</h1>
-
+<h3 align="center">A Girl trying to Figure-Out something new🤩<h3>
 <!--
 **nivyaraj26/nivyaraj26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
