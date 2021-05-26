@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there �<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'am Nivya Raj</h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'am Nivya Raj</h1>
 <h3 align="center">A Girl trying to Figure-Out something new🤩</h3>
   
 - 🔭 I’m a BTech student👩‍💻
